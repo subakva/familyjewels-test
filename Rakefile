@@ -14,7 +14,7 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
-  gem.name = "t"
+  gem.name = "family-jewels-test"
   gem.homepage = "http://github.com/subakva/family-jewels-test"
   gem.license = "MIT"
   gem.summary = %Q{A repo/gem for testing family jewels}
